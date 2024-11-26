@@ -1,5 +1,5 @@
 # 💫 Hello.I'm Arundhati Routray.
-🚀 Selfdriven, motivated and hardworking individual  |💻 Expertise in React, Node.js, Python, MongoDB,Spring and AWS.|🔧 Proficient in web and android development,Machine Learning,Algorithm and problem solving| I'm always up for a deep dive into System Design (LLD + HLD), Data Structures, and core Computer Concepts.|🌟 Passionate about solving complex challenges, and continuous learning in tech.
+🚀 A selfdriven, motivated and hardworking individual  |💻 Expertise in React, Node.js, Python, MongoDB,Spring and AWS.|🔧 Proficient in web and android development,Machine Learning,Algorithm and problem solving| I'm always up for a deep dive into System Design (LLD + HLD), Data Structures, and core Computer Concepts.|🌟 Passionate about solving complex challenges, and continuous learning in tech.
 
 
 
